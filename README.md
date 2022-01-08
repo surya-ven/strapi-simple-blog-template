@@ -11,8 +11,8 @@ Please note, this is a temporary "fix" as overriding the default conrollers, the
 You can start using this template using one of these commands:
 ```
 # Using Yarn
-yarn create strapi-app my-app-name --template https://github.com/strapi/strapi-template-ecommerce
+yarn create strapi-app my-app-name --template https://github.com/surya-ven/strapi-simple-blog-template
 
 # Or using NPM
-npx create-strapi-app my-app-name --template https://github.com/strapi/strapi-template-ecommerce
+npx create-strapi-app my-app-name --template https://github.com/surya-ven/strapi-simple-blog-template
 ```
